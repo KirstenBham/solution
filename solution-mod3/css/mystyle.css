@@ -1,0 +1,48 @@
+
+#header-nav {background-color: #7FFFD4;			
+			border-radius: 0;
+				border: 0;
+				height: 100px;}
+
+.navbar-brand h1 {/*Restaurant Name*/
+			font-family: Tahoma;
+			color: #5F9EA0;
+			text-shadow: 1px 1px 1px #111;
+			margin: auto;}
+
+.navbar-brand a:hover, .navbar-brand a:focus {text-decoration: none;}
+
+p {font-size: 50px;}
+
+#nav-list {margin-top: 10px;}
+
+#nav-list a {
+		color: #CD5C5C;
+		text-align: center;}
+
+#nav-list a:hover {
+	}
+* {box-sizing: border-box, center;}
+.row {background-color: #E6E6FA;
+					height: 700px;
+					padding: 10px;
+					margin: 20px; }
+
+body {text-align: center;
+		margin: 0px;}
+
+
+
+#nav-list {margin-top: 10px;}
+
+#togglemenu {width: 100%;
+			font-size: 1.7em;}
+
+
+
+/* media query large devices -- laptop and tablet*/
+
+@media 
+
+
+
